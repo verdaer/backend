@@ -26,7 +26,9 @@ Postman Test Sonucu=Aşağıda Postman ile alınmış test sonuçlarının ekran
 
 ![6](test/yorumekle.png) 
 
-![7](test/yorumgetir.png)                                                                                                                                                                                              
+![7](test/yorumgetir.png)   
+
 ![8](test/yorumguncelle.png) 
 
-![9](test7yorumsil.png)                  
+![9](test/yorumsil.png)    
+
