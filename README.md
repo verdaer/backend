@@ -15,18 +15,18 @@ API Endpoints
 
 Postman Test Sonucu=Aşağıda Postman ile alınmış test sonuçlarının ekran görüntüsü bulunmaktadır:
 
-![1](test\mekandetayinigetir.png)                                                                                                                                                             
-![2](test\mekanekle.png) 
+![1](test/mekandetayinigetir.png)                                                                                                                                                             
+![2](test/mekanekle.png) 
 
-![3](test\mekaniguncelle.png) 
+![3](test/mekaniguncelle.png) 
 
-![4](test\mekanisil.png) 
+![4](test/mekanisil.png) 
 
-![5](test\mekanlarilistele.png) 
+![5](test/mekanlarilistele.png) 
 
-![6](test\yorumekle.png) 
+![6](test/yorumekle.png) 
 
-![7](test\yorumgetir.png)                                                                                                                                                                                              
-![8](test\yorumguncelle.png) 
+![7](test/yorumgetir.png)                                                                                                                                                                                              
+![8](test/yorumguncelle.png) 
 
-![9](test\yorumsil.png)                  
+![9](test7yorumsil.png)                  
