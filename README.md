@@ -14,12 +14,19 @@ API Endpoints
    .Yorum sil: DELETE/api/venues/:venueid/comments/:commentid  
 
 Postman Test Sonucu=Aşağıda Postman ile alınmış test sonuçlarının ekran görüntüsü bulunmaktadır:
-![](test\mekandetayinigetir.png)                                                                                                                                                             
-![](test\mekanekle.png) 
-![](test\mekaniguncelle.png)                                                                                                          
-![](test\mekanisil.png) 
-![](test\mekanlarilistele.png)                                                                                                                  
-![](test\yorumekle.png) 
-![](test\yorumgetir.png)                                                                                                                                                                                              
-![](test\yorumguncelle.png)                                                                                                     
-![](test\yorumsil.png)                  
+
+![1](test\mekandetayinigetir.png)                                                                                                                                                             
+![2](test\mekanekle.png) 
+
+![3](test\mekaniguncelle.png) 
+
+![4](test\mekanisil.png) 
+
+![5](test\mekanlarilistele.png) 
+
+![6](test\yorumekle.png) 
+
+![7](test\yorumgetir.png)                                                                                                                                                                                              
+![8](test\yorumguncelle.png) 
+
+![9](test\yorumsil.png)                  
